@@ -24,5 +24,5 @@ estando na brunch "primeira-brunch" por exemplo, para mesclar outra alteração 
 
 "git push origin --tags" para empurrar as tags para o repositório remoto
 
-*obs: não consegui fazer com que o repositório remoto ignorasse um arquivo usando o ".gitignore"
+
 
